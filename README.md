@@ -25,7 +25,7 @@ This is a screenshot of my qr-code-clone project.
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Qr-code site URL](https://qr-code-clone-poqrw855a-yongyanglorona16gmailcoms-projects.vercel.app/)
 
 ## My process
 
